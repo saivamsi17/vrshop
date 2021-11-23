@@ -1,0 +1,283 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.banner-section-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.logo-img {
+    height: 33px;
+    width: 48px;
+}
+
+
+.main-heading {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 45px;
+}
+
+.view-more-button {
+    color: #ffffff;
+    background-color: #1a2137;
+    border-width: 0px;
+    border-radius: 3px;
+    height: 40px;
+    width: 130px;
+}
+
+.main-head {
+    font-size: 27px;
+    font-weight: bold;
+    color: #1f2933;
+}
+
+.card-head {
+    color: #1f2933;
+    font-size: 20px;
+}
+
+.feature-card {
+    text-align: center;
+    padding: 10px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+}
+
+.img-size {
+    height: 60px;
+    width: 60px;
+}
+
+.card-text {
+    color: #7b8794;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.high-light {
+    font-weight: bold;
+    font-style: italic;
+    color: #1f2933;
+    font-family: Roboto;
+}
+
+.product-main-head {
+    font-family: "Roboto";
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.product-card-head {
+    color: white;
+    font-family: "Roboto";
+    font-size: 32px;
+}
+
+.product-container {
+    padding: 20px;
+}
+
+.product-card-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png");
+    background-size: cover;
+}
+
+.product-card {
+    height: 600px;
+    width: 100%;
+}
+
+.price {
+    color: white;
+    font-family: "Roboto";
+    font-weight: normal;
+    font-size: 15px;
+}
+
+.buy-now-button {
+    background-color: #1f2933;
+    color: white;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 4px;
+    font-size: 15px;
+    font-family: "Roboto";
+    height: 33px;
+    width: 95px;
+}
+
+.product-card-container-2 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png");
+    background-size: cover;
+}
+
+.view-all-button {
+    color: white;
+    background-color: #1754a1;
+    border-width: 0px;
+    border-radius: 4px;
+    font-family: "Roboto";
+    font-size: 11px;
+    height: 30px;
+    width: 90px;
+}
+
+.blogs-container {
+    padding: 20px;
+}
+
+.blogs-main-head {
+    font-size: 30px;
+    font-family: "Roboto";
+    font-weight: 600;
+    color: #1f2933;
+}
+
+.blog-img-size {
+    width: 100%;
+}
+
+.sub-head {
+    color: #959ead;
+    font-size: 13px;
+}
+
+.blog-card-text {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.read-more {
+    font-size: 13px;
+    font-weight: bold;
+    color: #1754a1;
+}
+
+.view-all-button {
+    text-align: right;
+}
+
+.button-blue {
+    color: white;
+    background-color: #1754a1;
+    border-width: 0px;
+    border-radius: 4px;
+    height: 45px;
+    width: 130px;
+    font-family: Roboto;
+}
+
+.top-heading {
+    color: white;
+    font-weight: 600;
+    font-size: 30px;
+    font-family: "Roboto";
+}
+
+.main-contact-container {
+    background-color: #222b36;
+    text-align: center;
+}
+
+.contact-img-size {
+    width: 100%;
+}
+
+.contact-us-button {
+    background-color: transparent;
+    color: white;
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 4px;
+    font-family: "Roboto";
+    font-size: 12px;
+    height: 30px;
+    width: 90px;
+    font-weight: 300;
+
+}
+
+.vr-website-container {
+    background-color: black;
+}
+
+.icon-size {
+    height: 40px;
+    width: 65px;
+}
+
+.icon-container {
+    background-color: #19232d;
+    height: 45px;
+    width: 45px;
+    text-align: center;
+    border-radius: 50px;
+    margin-right: 9px;
+    margin-bottom: 9px;
+    padding-top: 12px;
+    padding-bottom: 30px;
+    padding-left: 15px;
+    padding-right: 30px;
+}
+
+.icon {
+    color: #5a7184;
+    font-size: 18px;
+}
+
+.text {
+    color: #5a7184;
+    font-size: 13px;
+    font-family: "Roboto";
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.container-head {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.vr-section-list {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.hr-line {
+    background-color: #5a7184;
+}
+
+.bottom-text {
+    color: #959ead;
+    font-size: 14px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
